@@ -16,8 +16,16 @@ Assembly Process
 4. Cut the heatshrink off the circumfrence of the microphone but not the cable. (this is not for the faint of heart)
 5. Apply RTV to the 1/5" of microphone cable behind the microphone.
 6. Pull the microphone back into the tubing until the front of the microphone is flat to the front of the tubing.
-7. Wait until the RTV cures while doing step 8.
-8. 
+7. Wait until the RTV cures while doing steps 8 to .
+8. Slide the outer miniDIN5 connector over the unterminated end of the cable with the narrow end facing the circuit board.
+9. Strip the unterminated end of the multiconductor cable.
+10. Solder the now exposed wires from the cable to the connectors pins. Be careful the connector melts easily.
+11. Assemble the connectors internal shielding (the metal inner covers, and the plastic mid one. Do not slide the outer cover on.
+12. Plug the connector into the mic. amp. and test that you soldered it correctly.
+13. If it works continue to step 14. If it doesn't work disassemble the connector housing and return to step 10. If you already tried this once odds are you broke the microphone at step 4. Get a new microphoen and start over from step 1.
+14. Now that you have something that works you can fill the partially assembled connector housing with RTV.
+15. Push the outer housing over the inner layers you already assembled.
+16. Let the whole thing sit for a day or two to cure and then retest.
 
 Future Work
 ===================================
