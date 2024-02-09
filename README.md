@@ -2,6 +2,8 @@
 
 Much like the Acoustic System Cable it might seem silly to make a whole project on github about putting a connector on a microphone. The thing is we optomized the process for this and we have different microphones so there are different variations of this project. The current version and the one we are first documenting here publicly is uses a Knowles FG microphone. Later we will include information on the EK series but this is not currently a priority as the microphones we used there are no longer manufactured.
 
+This is my fork of the original project here: https://github.com/EPL-Engineering/epl_acousticsysmic
+
 Preassembly Process
 ===================================
 
