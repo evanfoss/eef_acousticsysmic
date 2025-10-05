@@ -4,10 +4,45 @@ Much like the Acoustic System Cable it might seem silly to make a whole project 
 
 This is my fork of the original project here: https://github.com/EPL-Engineering/epl_acousticsysmic
 
+Tools (Suggested)
+===================================
+
+#11 scalpel and handle
+Excelta 177-SE Scalpel Handle, Straight, SS, 5" OAL
+I don't actually like this handle and if someone wants to recommend a better one that can be ordered in small quantity please let me know.
+
+609IE211
+Myco Scalpel Blade #11 Carbon Steel .015 pack of 100 blades
+
+Tweezers 00-SA
+I use a pair of Lindstrom tweezers with the corners rounded gentily with a fine grit sharpening stone.
+
+"3rd Hand" Fixture
+
+Diagonal cutters
+
+Tubing Decurling Fixture
+
+RTV Curing Fixture
+
+Syringe with modified needle
+
+
+BOM (Bill Of Matterials)
+===================================
+
+MFG #               MFG         Distributor         Distributor #               Description
+RTV-748             Dow         McMaster Carr       74915A654                   Tube Paste -65°F to 350°F UL 94, 24hr set time
+E-3603              Tygon       McMaster Carr       5155T14                     PVC Tubing for Chemicals 3/32" ID, 5/32" OD, 25 ft. Length
+FG-23329-P07        Knowles     Mouser              721-FG-23329-P07            Omni-Directional Microphone with 1M long shielded cable
+__________          Philmore    You Do It Elec.     ___                         5 position MiniDIN Male Cable Connector
+
 Preassembly Process
 ===================================
 
 We advise buying the tubing early and unwinding it. The tubing adopts a curl from being on coiled up that is an issue. To properly fit the inside of the acoustic system the tubing needs to not have the memory of this bend in it. To help remove this further we have designed a fixture which keeps the completed microphone assembly straight during the curing process. So please stop here, buy the tubing, make this fixture, and lay the tubing out. Obviously you should not leave anything to rest on top of the tubing as this will also distort it.
+
+RTV should be preloaded into the syringe. This needs to be done without any air tripped in the syringe so the RTV stays fresh for as long as possible. The needle is removed and the plastic adapter it is made of is shaved down to widen it's hole and narrow it's width. Apply some RTV to the plunger before pressing it all the way in before using the syringe in reverse to pull RTV out of the tube.
 
 Assembly Process
 ===================================
