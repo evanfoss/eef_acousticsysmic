@@ -32,10 +32,15 @@ BOM (Bill Of Matterials)
 ===================================
 
 MFG #               MFG         Distributor         Distributor #               Description
+
 RTV-748             Dow         McMaster Carr       74915A654                   Tube Paste -65°F to 350°F UL 94, 24hr set time
+
 E-3603              Tygon       McMaster Carr       5155T14                     PVC Tubing for Chemicals 3/32" ID, 5/32" OD, 25 ft. Length
+
 FG-23329-P07        Knowles     Mouser              721-FG-23329-P07            Omni-Directional Microphone with 1M long shielded cable
+
 __________          Philmore    You Do It Elec.     ___                         5 position MiniDIN Male Cable Connector
+
 
 Preassembly Process
 ===================================
